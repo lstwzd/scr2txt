@@ -1,0 +1,67 @@
+# Pillow==7.1.2
+# pyperclip==1.8.0
+# PyQt5==5.14.2
+# PyQt5-sip==12.7.2
+# pytesseract==0.3.4
+# py-notifier==0.1.0
+# system-hotkey==1.0.3
+# win10toast==0.9; platform_system == "Windows"
+
+altgraph==0.17
+astor==0.8.1
+chardet==3.0.4
+click==7.1.2
+cycler==0.10.0
+decorator==4.4.2
+funcsigs==1.0.2
+future==0.18.2
+gast==0.3.3
+graphviz==0.14.2
+idna==2.10
+imageio==2.9.0
+imgaug==0.4.0
+joblib==0.17.0
+kiwisolver==1.2.0
+lmdb==1.0.0
+matplotlib==3.3.2
+networkx==2.5
+nltk==3.5
+np-utils==0.5.12.1
+numpy==1.19.2
+objgraph==3.4.1
+opencv-python==4.2.0.32
+paddleocr==1.0.0
+paddlepaddle==1.8.5
+pathlib==1.0.1
+pefile==2019.4.18
+Pillow==7.1.2
+prettytable==1.0.1
+protobuf==3.13.0
+py-notifier==0.1.0
+pyclipper==1.2.0
+pyinstaller==4.0
+pyinstaller-hooks-contrib==2020.9
+pyparsing==2.4.7
+pyperclip==1.8.0
+pypiwin32==223
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+pytesseract==0.3.4
+python-dateutil==2.8.1
+PyWavelets==1.1.1
+pywin32==228
+pywin32-ctypes==0.2.0
+PyYAML==5.3.1
+rarfile==4.0
+regex==2020.10.11
+requests==2.24.0
+scikit-image==0.17.2
+scipy==1.5.2
+Shapely @ file:///./Shapely-1.7.1-cp37-cp37m-win_amd64.whl
+six==1.15.0
+system-hotkey==1.0.3
+tifffile==2020.10.1
+tqdm==4.50.2
+urllib3==1.25.10
+wcwidth==0.2.5
+wincertstore==0.2
